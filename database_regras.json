@@ -1,0 +1,18 @@
+{
+  "classes": {
+    "Ladino": {
+      "dado_vida": "d8",
+      "pericias_escolha": 4,
+      "lista_pericias": ["Acrobacia", "Atletismo", "Enganação", "Furtividade", "Intimidação", "Investigação", "Percepção", "Persuasão", "Prestidigitação"],
+      "especializacao_n1": 2,
+      "equipamento_inicial": [
+        ["Rapieira", "Espada Curta"],
+        ["Arco Curto e aljava com 20 flechas", "Espada Curta"],
+        "Pacote de Assaltante",
+        "Armadura de couro",
+        "Duas adagas",
+        "Ferramentas de ladrão"
+      ]
+    }
+  }
+}
